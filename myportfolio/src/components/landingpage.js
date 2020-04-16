@@ -14,7 +14,7 @@ class Landing extends Component {
                         <Cell className="cell-1" col={10}>
                             <p className="banner-text-blank3"></p>
                             <div className="banner-text">
-                                <Typist>
+                                <Typist className="type-ani">
                                 <p1> Recent Computer Science Graduate</p1>
                                 </Typist>
                                 <p className="banner-text-blank"></p>
