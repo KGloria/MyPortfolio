@@ -25,7 +25,7 @@ class About extends Component {
                     Thanks for stopping by!
                 </CardText>
                 <CardActions border>
-                    <CardText style={{color: '#5a6069'}}> <b style={{color: '#5a6069'}}>Email:</b> KyleSheaGloria@gmail.com     |     <b>LinkedIn:</b> /in/kyle-gloria/</CardText>
+                    <CardText style={{color: '#5a6069'}}> <b style={{color: '#5a6069'}}>Email:</b> KyleSheaGloria@gmail.com     |      <a style= {{color: '#5a6069'}} href="https://www.linkedin.com/in/kyle-gloria/"><b>LinkedIn:</b></a></CardText>
                 </CardActions>
             </Card>
             </div>
