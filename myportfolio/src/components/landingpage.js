@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Grid, Cell, Button, Navigation } from 'react-mdl';
+import { Grid, Cell, Button } from 'react-mdl';
 import Typist from 'react-typist';
 
 class Landing extends Component {

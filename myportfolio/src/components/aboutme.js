@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
-import { Card, CardTitle, CardActions, CardText, Button, CardMenu, IconButton } from 'react-mdl';
+import { Card, CardTitle, CardActions, CardText } from 'react-mdl';
 
 class About extends Component {
     render() {
         return(
             <div className="aboutme-div">
             <Card className="aboutme-card"shadow={2} style={{width: '1012px', margin: 'auto'}}>
-                <CardTitle style={{color: '#FFF', height: '300px', background: 'url(/img/sd_header.jpg) center / cover'}}></CardTitle>
+                <CardTitle style={{color: '#FFF', height: '300px', background: 'url(./img/sd_header.jpg) center / cover'}}></CardTitle>
                 <CardText style={{margin: 'auto', textAlign: 'left', display:'box'}}>
                     Hello! My name is Kyle and I am a recent graduate from San Diego State University with a B.S. in Computer Science.
                     <br></br>
